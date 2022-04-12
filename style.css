@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+:root{
+    --primary-color:  #7C3AED;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+    /* top and bottom: 2 rem
+    right and left: 0rem
+     */
+    margin: 2rem 0rem;
+}
+
+/* conatiner */
+.container {
+    /* padding-left: 1rem;
+    padding-right: 1rem; */
+    /* rem is a css unit */
+    padding: 0rem 1rem;
+}
+.center-container{
+    width: 600px;
+    margin: auto;
+}
+
+/* links */
+.link{
+    /* to remove underlining */
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+}
+.link-primary{
+    background-color: var(--primary-color);
+    color: white;
+    border-radius: 0.5rem;
+    ;
+}
+
+.link-secondary{
+    color: var(--primary-color);
+    border-radius: 0.5rem;
+    border: 1px solid var(--primary-color);
+}
+/* look into BEM naming convention for CSS */
+
+/* lists */
+
+.list-non-bullet{
+    /* removing bullets from ul */
+    list-style: none;
+}
+.list-item-inline{
+    /* unordered inline list */
+    display: inline;
+    padding: 0rem 0.5rem;
+}
+
+/* navigation */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body{
+    color: blueviolet;
+}
+h2{
+    color: red;
+}
+# is used to select id
+#lib-header{
+    color: black;
+}
+. is used to select class
+.para{
+    color: orange;
+} */
