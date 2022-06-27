@@ -1,15 +1,3 @@
 Ashish.jpg
-
-//NOTE: refer mdn javascript for learning
-
-/*
-In JS, an array can contain numbers,strings,objects,functions,etc.
-we get 'undefined', when we access index out of bound in array
-*/
-
-/* 
-Data types in JS are:
-1. Primitive:
-Number(all types of numbers including floating point numbers),String,Boolean,Null,Undefined,BigInt,Symbol,NaN(not a number)
-2. Objects
-*/
+tempCodeRunnerFile.js
+node_modules
